@@ -34,7 +34,7 @@ for [hostname,ip] in f:
         "groups": [{
 			"groupid": "32"            
 		}],
-        "templates":[{
+        "templates": [{
             "templateid": "10267"
         }]
     })
